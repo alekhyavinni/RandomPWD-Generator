@@ -40,7 +40,7 @@ https://github.com/alekhyavinni/RandomPWD-Generator.git
 https://alekhyavinni.github.io/RandomPWD-Generator
 
 # Screenshot
-RandomPWD-Generator\Assets\images\screenshot.png
+https://github.com/alekhyavinni/RandomPWD-Generator/blob/main/Assets/images/screenshot.png
 
 # license
 Please refer to the License in repo
